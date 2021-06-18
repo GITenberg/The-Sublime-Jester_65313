@@ -1,11 +1,16 @@
 _repo: The-Sublime-Jester_65313
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65313-h/images/cover.jpg
 creator:
   author:
     agent_name: Brudno, Ezra
     gutenberg_agent_id: '53283'
     url: http://www.gutenberg.org/2009/agents/53283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65313#The-Sublime-Jester
 gutenberg_issued: '2021-05-10'
 gutenberg_type: Text
 identifiers:
